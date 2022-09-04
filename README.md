@@ -9,3 +9,5 @@ Pressing the arrow keys across the game board will move all tiles in the directi
 Two tiles with the same number will merge when they collide to create a single tile with double the value.
 
 The game is over when there are no valid ways for you to move the tiles.
+
+[Demo](https://2048daily-clone.netlify.app)
